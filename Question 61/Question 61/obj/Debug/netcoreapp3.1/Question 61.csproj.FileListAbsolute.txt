@@ -1,0 +1,13 @@
+F:\oop assignment\Question 61\Question 61\bin\Debug\netcoreapp3.1\Question 61.exe
+F:\oop assignment\Question 61\Question 61\bin\Debug\netcoreapp3.1\Question 61.deps.json
+F:\oop assignment\Question 61\Question 61\bin\Debug\netcoreapp3.1\Question 61.runtimeconfig.json
+F:\oop assignment\Question 61\Question 61\bin\Debug\netcoreapp3.1\Question 61.runtimeconfig.dev.json
+F:\oop assignment\Question 61\Question 61\bin\Debug\netcoreapp3.1\Question 61.dll
+F:\oop assignment\Question 61\Question 61\bin\Debug\netcoreapp3.1\Question 61.pdb
+F:\oop assignment\Question 61\Question 61\obj\Debug\netcoreapp3.1\Question 61.GeneratedMSBuildEditorConfig.editorconfig
+F:\oop assignment\Question 61\Question 61\obj\Debug\netcoreapp3.1\Question 61.AssemblyInfoInputs.cache
+F:\oop assignment\Question 61\Question 61\obj\Debug\netcoreapp3.1\Question 61.AssemblyInfo.cs
+F:\oop assignment\Question 61\Question 61\obj\Debug\netcoreapp3.1\Question 61.csproj.CoreCompileInputs.cache
+F:\oop assignment\Question 61\Question 61\obj\Debug\netcoreapp3.1\Question 61.dll
+F:\oop assignment\Question 61\Question 61\obj\Debug\netcoreapp3.1\Question 61.pdb
+F:\oop assignment\Question 61\Question 61\obj\Debug\netcoreapp3.1\Question 61.genruntimeconfig.cache
