@@ -1,0 +1,14 @@
+F:\oop assignment\Questionn 59\Questionn 59\obj\Debug\netcoreapp3.1\Questionn 59.csproj.AssemblyReference.cache
+F:\oop assignment\Questionn 59\Questionn 59\obj\Debug\netcoreapp3.1\Questionn 59.GeneratedMSBuildEditorConfig.editorconfig
+F:\oop assignment\Questionn 59\Questionn 59\obj\Debug\netcoreapp3.1\Questionn 59.AssemblyInfoInputs.cache
+F:\oop assignment\Questionn 59\Questionn 59\obj\Debug\netcoreapp3.1\Questionn 59.AssemblyInfo.cs
+F:\oop assignment\Questionn 59\Questionn 59\obj\Debug\netcoreapp3.1\Questionn 59.csproj.CoreCompileInputs.cache
+F:\oop assignment\Questionn 59\Questionn 59\bin\Debug\netcoreapp3.1\Questionn 59.exe
+F:\oop assignment\Questionn 59\Questionn 59\bin\Debug\netcoreapp3.1\Questionn 59.deps.json
+F:\oop assignment\Questionn 59\Questionn 59\bin\Debug\netcoreapp3.1\Questionn 59.runtimeconfig.json
+F:\oop assignment\Questionn 59\Questionn 59\bin\Debug\netcoreapp3.1\Questionn 59.runtimeconfig.dev.json
+F:\oop assignment\Questionn 59\Questionn 59\bin\Debug\netcoreapp3.1\Questionn 59.dll
+F:\oop assignment\Questionn 59\Questionn 59\bin\Debug\netcoreapp3.1\Questionn 59.pdb
+F:\oop assignment\Questionn 59\Questionn 59\obj\Debug\netcoreapp3.1\Questionn 59.dll
+F:\oop assignment\Questionn 59\Questionn 59\obj\Debug\netcoreapp3.1\Questionn 59.pdb
+F:\oop assignment\Questionn 59\Questionn 59\obj\Debug\netcoreapp3.1\Questionn 59.genruntimeconfig.cache

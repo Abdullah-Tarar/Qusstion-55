@@ -6,7 +6,7 @@ namespace Question_58
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
